@@ -28,6 +28,7 @@ My name is Trofan Putra Pranata and I"m a Frontend Developer who is passionate a
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ## &#x1f4c8; GitHub Stats
  
+ <br/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TrofanPutra&theme=radical" alt="TrofanPutra" /></p>
 <br />
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TrofanPutra&show_icons=true&locale=en&layout=compact&theme=radical" alt="TrofanPutra" /></p>
